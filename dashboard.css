@@ -1,0 +1,60 @@
+.main-heading{
+  text-align:center;
+  color:white;
+}
+.matter{
+  color:white;
+  font-weight:bold;
+  text-align: center;
+}
+.bg-image{
+  background-image:url('https://plus.unsplash.com/premium_photo-1683309568772-57011d6c1b7b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8dG8lMjBkbyUyMGxpc3R8ZW58MHx8MHx8fDA%3D');
+  height:100%;
+  
+  background-size:cover;
+}
+.card{
+  background-color:pink;
+  text-align:center;
+  padding:30px;
+  margin:10px;
+  width:240px;
+  height:300px;
+  border-radius:15px;
+}
+
+.image-logo{
+  height:60px;
+  width:60px;
+}
+.logo-name{
+  font-size:24px
+}
+.to-do-list-Page{
+  background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%,#FFCC70 86%);
+  height:100vh;
+  background-size:cover;
+}
+.to-do-list-card{
+  background-color:black;
+  padding:25px;
+  width:400px;
+  height:350px;
+  border-radius:15px;
+}
+.to-do-list-heading{
+  color:white;
+  font-family:"Bree Serif";
+  
+}
+.to-do-list-desp{
+  color:white;
+}
+.goals{
+  margin-bottom:5px;
+}
+.card-for-to-do-list{
+  border-radius: 10px;
+  padding:15px;
+  margin-bottom:15px;
+}
